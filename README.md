@@ -29,3 +29,6 @@ To identify and exploit Cross-Site Scripting (XSS) vulnerability using DVWA.
 - Input validation
 - Output encoding
 - Use of secure frameworks
+
+- ## 📸 Screenshot
+![XSS Demo](xss-demo.png)
